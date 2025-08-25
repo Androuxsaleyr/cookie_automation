@@ -31,7 +31,7 @@ An intelligent automation system for Cookie Clicker that combines computer visio
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/cookie_automation.git
+   git clone https://github.com/Androuxsaleyr/cookie_automation.git
    cd cookie_automation
    ```
 
